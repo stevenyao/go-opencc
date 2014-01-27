@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "../"
+import "github.com/stevenyao/go-opencc"
 
 const (
 	input = "中国鼠标软件打印机"
