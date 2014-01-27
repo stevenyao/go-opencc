@@ -9,9 +9,9 @@ Run 'go get github.com/stevenyao/go-opencc'
 
 ### Example
 
+```go
 package main
 
-```go
 import "fmt"
 import "github.com/stevenyao/go-opencc"
 
