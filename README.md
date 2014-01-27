@@ -5,7 +5,7 @@ opencc wrapper for Golang
 
 ### Install
 
-Run 'go get github.com/stevenyao/go-opencc
+Run 'go get github.com/stevenyao/go-opencc'
 
 ### Example
 
